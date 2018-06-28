@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
             return rowMain
 
 //            val textView = TextView(mContext) //To change body of created functions use File | Settings | File Templates.
-//            textView.text = "Here is row for my listview"
+//            textView.text = "Here is row for Pai's listview"
 //            return textView
         }
     }
