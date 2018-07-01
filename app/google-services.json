@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "674428841087",
+    "firebase_url": "https://hiunabell.firebaseio.com",
+    "project_id": "hiunabell",
+    "storage_bucket": "hiunabell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674428841087:android:3e684689a297f1c4",
+        "android_client_info": {
+          "package_name": "com.pai.wwcc3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674428841087-jn62v8enmlgj8rjnfskl6usnkoaii5f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pai.wwcc3",
+            "certificate_hash": "6c6d563662b45d9d071ef27fc1da5dc0e72c62b0"
+          }
+        },
+        {
+          "client_id": "674428841087-lf5rk9g0g8do4uqr0ti5ag3pbbh6iris.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cWulA4CurEIuGbmmiWubcy69of-fbag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674428841087-lf5rk9g0g8do4uqr0ti5ag3pbbh6iris.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674428841087-01qvos0nrd91hhaeuj5mr36kei2d9j6j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pai.OneClean"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674428841087:android:e76da04af0c843b0",
+        "android_client_info": {
+          "package_name": "com.sam.sigfox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674428841087-lf5rk9g0g8do4uqr0ti5ag3pbbh6iris.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cWulA4CurEIuGbmmiWubcy69of-fbag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674428841087:android:6381d04661453df2",
+        "android_client_info": {
+          "package_name": "com.wei.OneClean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674428841087-lf5rk9g0g8do4uqr0ti5ag3pbbh6iris.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cWulA4CurEIuGbmmiWubcy69of-fbag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
